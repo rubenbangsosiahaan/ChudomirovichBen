@@ -1,28 +1,38 @@
 # Hi, I'm Ruben 👋
 
-🎓 Mathematics Undergraduate
+🎓 **Mathematics Undergraduate** | **Data & Business Intelligence Enthusiast**
 
-I enjoy solving mathematical problems, building data-driven projects, and continuously learning new technologies.
+I enjoy turning raw, complex datasets into clear business insights through statistical analysis, relational database modeling, and interactive dashboards.
 
-Outside of academics, you'll probably find me exploring Teyvat in Genshin Impact 🎮 or watching movies and anime 🎬.
+Currently, I am focused on **Data Analytics**, **Business Intelligence**, and **Statistical Modeling**—building end-to-end analytical projects from data cleaning to executive reporting.
 
-Currently, I'm building my portfolio in Python, Data Science, Machine Learning, and Mathematical Modeling.
+---
 
-## Tech Stack
-Python • MATLAB • Git • GitHub • LaTeX
+### 🛠️ Tech Stack & Analytical Tools
+- **Data Analysis & Statistics:** Python (`Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`), MATLAB
+- **Database & Querying:** SQL (`PostgreSQL` — Relational Modeling, CTEs, Window Functions, Views)
+- **Business Intelligence:** Power BI (`DAX`, Data Modeling, Interactive Dashboards)
+- **Tools & Documentation:** Git, GitHub, LaTeX, VS Code
 
-## Currently Learning
-- 📊 Data Science
-- 🤖 Machine Learning
-- 🐍 Advanced Python
-- 📈 Mathematical Optimization
+---
 
-## Fun Facts
-- 🎮 Genshin Impact player
-- 🎬 Movie enthusiast
-- 🍜 Food lover
-- ✈️ Travel dreamer
+### 📊 Featured End-to-End Projects
+1. **[Fintech Credit Risk Analytics](https://github.com/ChudomirovichBen/fintech-credit-risk-analytics)**  
+   *Python • PostgreSQL • Power BI*  
+   Evaluated 307K+ loan applications integrated with 3.38M credit history records to identify default risk drivers, validate risk segments via non-parametric hypothesis testing, and design a 2-page executive underwriting dashboard.
 
-## Let's Connect!
-- LinkedIn: #underconstruction
-- Email: rubenbangso@gmail.com
+2. **[FMCG Sales & Commercial Analytics](https://github.com/ChudomirovichBen/fmcg-sales-commercial-analytics)**  
+   *Python • PostgreSQL • Power BI*  
+   Analyzed 3M+ retail transaction records across 54 stores to uncover revenue growth drivers, promotion elasticity, and store-level commercial performance.
+
+---
+
+### ⚡ Beyond Data
+- 🎮 Exploring Teyvat in *Genshin Impact*
+- 🎬 Watching movies and anime
+- 🍜 Food lover & ✈️ travel dreamer
+
+---
+
+### 📫 Let's Connect!
+- **Email:** rubenbangso@gmail.com
